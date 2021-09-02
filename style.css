@@ -336,6 +336,7 @@ hr{
 
 .footer{
   background-color:black;
+  border-top:5px solid blue;
   padding: 40px 0px;
   margin-top: 0px;
 }
