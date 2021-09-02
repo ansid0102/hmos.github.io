@@ -310,7 +310,13 @@ hr{
   .flex-container{
       flex-direction:column;
   }
-  
+  #img{
+    display:none;
+  }
+  .flex-item-left{
+    border-top:3px solid #2574ed ;
+    padding:auto;
+  }
   .page-color h2{
       text-align: center;
    }
