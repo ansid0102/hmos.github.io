@@ -315,7 +315,8 @@ hr{
   }
   .flex-item-left{
     border-top:3px solid #2574ed ;
-    padding:auto;
+    width: auto;
+    padding:10px 20px;
   }
   .page-color h2{
       text-align: center;
