@@ -282,7 +282,7 @@ hr{
 .page-color{
   color: black;
   background-color:whitesmoke;
-  padding: 15px;
+  padding: 10px;
 }
 
 .flex-item-left p{
@@ -294,7 +294,7 @@ hr{
 
 .flex-item-right{
   
-  padding: 10px;
+  padding: 8px;
   flex: 50%;
 }
 
